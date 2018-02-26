@@ -3,7 +3,7 @@
 const config = {
   apiOrigins: {
     development: 'http://localhost:4741',
-    production: 'https://bitstash.herokuapp.com/``'
+    production: 'https://skinnybuff.github.io/bitstash-client'
   }
 }
 
