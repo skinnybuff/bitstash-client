@@ -1,17 +1,5 @@
 # BitStash
 
-### Technologies Used:
-JavaScript, jQuery, AJAX, BootStrap, HTML5, SASS + CSS3, cURL
-
-### Project Links
-**Client (Front End) -**
-[Deployed Client](https://alkazams-shark-assassins.github.io/bitstash-client)
-| [GitHub Client Repo](https://github.com/alkazams-shark-assassins/bitstash-client)
-
-**API (Back End) -**
-[Deployed API](https://desolate-eyrie-66077.herokuapp.com)
-| [GitHub API Repo](https://github.com/alkazams-shark-assassins/bitstash-api)
-
 ### About
 BitStash is an online storage solution that allows you to upload files you have on your personal computer to a remote
 server for access from anywhere in the world! Users can create an account, and privately upload personal files of any type
@@ -20,6 +8,19 @@ to the cloud, where they can then access them with a web browser.
 In this version, we have limited the size of a file upload to 10MB.
 
 This app was created by Fernando Donaire, Ted Cart, Shaun White, and Will Bounas.
+
+### Technologies Used:
+JavaScript, jQuery, AJAX, BootStrap, HTML5, SASS + CSS3, cURL
+
+### Project Links
+**Client (Front End) -**
+[Deployed Client](https://alkazams-shark-assassins.github.io/bitstash-client)
+| [GitHub Client Repo](https://github.com/skinnybuff/bitstash-client)
+
+**API (Back End) -**
+[Deployed API](https://bitstash.herokuapp.com)
+| [GitHub API Repo](https://github.com/skinnybuff/bitstash-api)
+
 
 ### Future Iterations
 - Add drag-and-drop functionality when uploading a file
