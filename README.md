@@ -14,7 +14,7 @@ JavaScript, jQuery, AJAX, BootStrap, HTML5, SASS + CSS3, cURL
 
 ### Project Links
 **Client (Front End) -**
-[Deployed Client](https://alkazams-shark-assassins.github.io/bitstash-client)
+[Deployed Client](https://skinnybuff.github.io/bitstash-client/)
 | [GitHub Client Repo](https://github.com/skinnybuff/bitstash-client)
 
 **API (Back End) -**
